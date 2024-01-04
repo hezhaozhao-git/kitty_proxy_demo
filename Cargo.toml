@@ -11,5 +11,6 @@ kitty_proxy = { git = "https://github.com/hezhaozhao-git/kitty_proxy.git" }
 log = "0.4.20"
 tokio = "1.35.1"
 env_logger = "0.9"
+url = "2.5.0"
 
 
